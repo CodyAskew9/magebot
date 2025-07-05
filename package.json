@@ -1,0 +1,25 @@
+{
+  "name": "discord-mage-game",
+  "version": "1.0.0",
+  "description": "A Discord bot RPG game where players progress as mages",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.14.0",
+    "@discordjs/rest": "^1.7.1",
+    "discord-api-types": "^0.37.42",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["discord", "bot", "game", "rpg", "mage"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 
