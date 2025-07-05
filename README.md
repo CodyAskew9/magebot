@@ -126,4 +126,4 @@ You can easily customize the game by modifying:
 
 ## 📄 License
 
-MIT License - feel free to modify and distribute! 
+MIT License - feel free to modify and distribute! # magebot
